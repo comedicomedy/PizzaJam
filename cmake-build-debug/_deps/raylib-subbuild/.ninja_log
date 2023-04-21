@@ -1,0 +1,21 @@
+# ninja log v5
+0	63	7037870071640155	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	a6bdb756bdd69795
+0	63	7037870071640155	C:/Users/bsine/Dropbox/PC/Desktop/Projects/Libary Games/PizzJam/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	a6bdb756bdd69795
+0	3800	7037870395172050	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	ce979ca4f2837305
+0	3800	7037870395172050	C:/Users/bsine/Dropbox/PC/Desktop/Projects/Libary Games/PizzJam/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	ce979ca4f2837305
+3875	3947	7037870396632078	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	64c9081a2ebb58d4
+3800	3875	7037870395923393	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	29cebb83db64b2ad
+3800	3875	7037870395923393	C:/Users/bsine/Dropbox/PC/Desktop/Projects/Libary Games/PizzJam/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	29cebb83db64b2ad
+3875	3947	7037870396632078	C:/Users/bsine/Dropbox/PC/Desktop/Projects/Libary Games/PizzJam/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	64c9081a2ebb58d4
+3947	4022	7037870397373024	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	96f1b3fd8c405c65
+4170	4236	7037870399530336	C:/Users/bsine/Dropbox/PC/Desktop/Projects/Libary Games/PizzJam/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	d5e6ec20ca8cc2d0
+3947	4022	7037870397373024	C:/Users/bsine/Dropbox/PC/Desktop/Projects/Libary Games/PizzJam/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	96f1b3fd8c405c65
+4022	4099	7037870398130920	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	dfdd68f33e382973
+4022	4099	7037870398130920	C:/Users/bsine/Dropbox/PC/Desktop/Projects/Libary Games/PizzJam/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	dfdd68f33e382973
+4099	4169	7037870398874184	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	62d93f32ab0ca918
+4099	4169	7037870398874184	C:/Users/bsine/Dropbox/PC/Desktop/Projects/Libary Games/PizzJam/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	62d93f32ab0ca918
+4170	4236	7037870399530336	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	d5e6ec20ca8cc2d0
+4236	4325	7037870400430740	CMakeFiles/raylib-populate-complete	d030d6d1fca01710
+4236	4325	7037870400430740	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	d030d6d1fca01710
+4236	4325	7037870400430740	C:/Users/bsine/Dropbox/PC/Desktop/Projects/Libary Games/PizzJam/cmake-build-debug/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete	d030d6d1fca01710
+4236	4325	7037870400430740	C:/Users/bsine/Dropbox/PC/Desktop/Projects/Libary Games/PizzJam/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	d030d6d1fca01710
