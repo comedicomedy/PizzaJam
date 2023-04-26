@@ -20,7 +20,9 @@
 					"source" : ".",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						3,
+						4
 					]
 				},
 				{
@@ -87,7 +89,7 @@
 					"targetIndexes" : 
 					[
 						1,
-						3
+						5
 					]
 				}
 			],
@@ -106,7 +108,9 @@
 					"name" : "example",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						3,
+						4
 					]
 				},
 				{
@@ -137,7 +141,7 @@
 					"targetIndexes" : 
 					[
 						1,
-						3
+						5
 					]
 				}
 			],
@@ -163,6 +167,20 @@
 					"jsonFile" : "target-raylib-Debug-aa58ddd6365b31afc2ec.json",
 					"name" : "raylib",
 					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "raylib-tmx::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-raylib-tmx-Debug-51641a6d1259cc6310dc.json",
+					"name" : "raylib-tmx",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tmx::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tmx-Debug-9721c3f1bb79f9b745d1.json",
+					"name" : "tmx",
+					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 4,

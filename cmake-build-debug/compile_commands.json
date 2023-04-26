@@ -6,6 +6,16 @@
 },
 {
   "directory": "C:/Users/bsine/Dropbox/PC/Desktop/Projects/Libary Games/PizzJam/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~2.1\\bin\\mingw\\bin\\gcc.exe -g -fdiagnostics-color=always -o CMakeFiles\\tmx.dir\\tmx.c.obj -c \"C:\\Users\\bsine\\Dropbox\\PC\\Desktop\\Projects\\Libary Games\\PizzJam\\tmx.c\"",
+  "file": "C:\\Users\\bsine\\Dropbox\\PC\\Desktop\\Projects\\Libary Games\\PizzJam\\tmx.c"
+},
+{
+  "directory": "C:/Users/bsine/Dropbox/PC/Desktop/Projects/Libary Games/PizzJam/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~2.1\\bin\\mingw\\bin\\gcc.exe -g -fdiagnostics-color=always -o CMakeFiles\\raylib-tmx.dir\\raylib-tmx.c.obj -c \"C:\\Users\\bsine\\Dropbox\\PC\\Desktop\\Projects\\Libary Games\\PizzJam\\raylib-tmx.c\"",
+  "file": "C:\\Users\\bsine\\Dropbox\\PC\\Desktop\\Projects\\Libary Games\\PizzJam\\raylib-tmx.c"
+},
+{
+  "directory": "C:/Users/bsine/Dropbox/PC/Desktop/Projects/Libary Games/PizzJam/cmake-build-debug",
   "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~2.1\\bin\\mingw\\bin\\gcc.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -I\"C:/Users/bsine/Dropbox/PC/Desktop/Projects/Libary Games/PizzJam/cmake-build-debug/_deps/raylib-src/src\" -isystem \"C:/Users/bsine/Dropbox/PC/Desktop/Projects/Libary Games/PizzJam/cmake-build-debug/_deps/raylib-src/src/external/glfw/include\" -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -g -fdiagnostics-color=always -std=gnu99 -o _deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\rcore.c.obj -c \"C:\\Users\\bsine\\Dropbox\\PC\\Desktop\\Projects\\Libary Games\\PizzJam\\cmake-build-debug\\_deps\\raylib-src\\src\\rcore.c\"",
   "file": "C:\\Users\\bsine\\Dropbox\\PC\\Desktop\\Projects\\Libary Games\\PizzJam\\cmake-build-debug\\_deps\\raylib-src\\src\\rcore.c"
 },

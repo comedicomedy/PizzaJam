@@ -75,6 +75,68 @@ build example.exe: CXX_EXECUTABLE_LINKER__example_Debug CMakeFiles/example.dir/m
   TARGET_IMPLIB = libexample.dll.a
   TARGET_PDB = example.exe.dbg
 
+# =============================================================================
+# Object build statements for STATIC_LIBRARY target tmx
+
+
+#############################################
+# Order-only phony target for tmx
+
+build cmake_object_order_depends_target_tmx: phony || CMakeFiles/tmx.dir
+
+build CMakeFiles/tmx.dir/tmx.c.obj: C_COMPILER__tmx_Debug C$:/Users/bsine/Dropbox/PC/Desktop/Projects/Libary$ Games/PizzJam/tmx.c || cmake_object_order_depends_target_tmx
+  DEP_FILE = CMakeFiles\tmx.dir\tmx.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\tmx.dir
+  OBJECT_FILE_DIR = CMakeFiles\tmx.dir
+
+
+# =============================================================================
+# Link build statements for STATIC_LIBRARY target tmx
+
+
+#############################################
+# Link the static library libtmx.a
+
+build libtmx.a: C_STATIC_LIBRARY_LINKER__tmx_Debug CMakeFiles/tmx.dir/tmx.c.obj
+  LANGUAGE_COMPILE_FLAGS = -g
+  OBJECT_DIR = CMakeFiles\tmx.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = libtmx.a
+  TARGET_PDB = tmx.a.dbg
+
+# =============================================================================
+# Object build statements for STATIC_LIBRARY target raylib-tmx
+
+
+#############################################
+# Order-only phony target for raylib-tmx
+
+build cmake_object_order_depends_target_raylib-tmx: phony || CMakeFiles/raylib-tmx.dir
+
+build CMakeFiles/raylib-tmx.dir/raylib-tmx.c.obj: C_COMPILER__raylib-tmx_Debug C$:/Users/bsine/Dropbox/PC/Desktop/Projects/Libary$ Games/PizzJam/raylib-tmx.c || cmake_object_order_depends_target_raylib-tmx
+  DEP_FILE = CMakeFiles\raylib-tmx.dir\raylib-tmx.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\raylib-tmx.dir
+  OBJECT_FILE_DIR = CMakeFiles\raylib-tmx.dir
+
+
+# =============================================================================
+# Link build statements for STATIC_LIBRARY target raylib-tmx
+
+
+#############################################
+# Link the static library libraylib-tmx.a
+
+build libraylib-tmx.a: C_STATIC_LIBRARY_LINKER__raylib-tmx_Debug CMakeFiles/raylib-tmx.dir/raylib-tmx.c.obj
+  LANGUAGE_COMPILE_FLAGS = -g
+  OBJECT_DIR = CMakeFiles\raylib-tmx.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = libraylib-tmx.a
+  TARGET_PDB = raylib-tmx.a.dbg
+
 
 #############################################
 # Utility command for package
@@ -841,6 +903,10 @@ build libraylib.a: phony _deps/raylib-build/raylib/libraylib.a
 
 build raylib: phony _deps/raylib-build/raylib/libraylib.a
 
+build raylib-tmx: phony libraylib-tmx.a
+
+build tmx: phony libtmx.a
+
 build update_mappings: phony _deps/raylib-build/raylib/external/glfw/src/update_mappings
 
 # =============================================================================
@@ -851,7 +917,7 @@ build update_mappings: phony _deps/raylib-build/raylib/external/glfw/src/update_
 #############################################
 # Folder: C:/Users/bsine/Dropbox/PC/Desktop/Projects/Libary Games/PizzJam/cmake-build-debug
 
-build all: phony example.exe _deps/raylib-build/all
+build all: phony example.exe libtmx.a libraylib-tmx.a _deps/raylib-build/all
 
 # =============================================================================
 

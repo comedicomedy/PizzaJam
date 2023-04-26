@@ -1,4 +1,6 @@
 C:/Users/bsine/Dropbox/PC/Desktop/Projects/Libary Games/PizzJam/cmake-build-debug/CMakeFiles/example.dir
+C:/Users/bsine/Dropbox/PC/Desktop/Projects/Libary Games/PizzJam/cmake-build-debug/CMakeFiles/tmx.dir
+C:/Users/bsine/Dropbox/PC/Desktop/Projects/Libary Games/PizzJam/cmake-build-debug/CMakeFiles/raylib-tmx.dir
 C:/Users/bsine/Dropbox/PC/Desktop/Projects/Libary Games/PizzJam/cmake-build-debug/CMakeFiles/package.dir
 C:/Users/bsine/Dropbox/PC/Desktop/Projects/Libary Games/PizzJam/cmake-build-debug/CMakeFiles/package_source.dir
 C:/Users/bsine/Dropbox/PC/Desktop/Projects/Libary Games/PizzJam/cmake-build-debug/CMakeFiles/edit_cache.dir
